@@ -28,3 +28,7 @@ console.log(csv);
 const words = CSV.toJSON(csv);
 console.log(words);
 ```
+
+## samples
+https://taisukef.github.io/TypingGame/  
+タイピングゲーム  
