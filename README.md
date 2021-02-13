@@ -1,6 +1,6 @@
 # globish
 Globish 1500単語 CSVデータ  
-http://www.globish.com/?&lang=ja_utf8  
+http://www.globish.com/  
 
 ## CSV
 https://taisukef.github.io/globish/globishwords.csv
