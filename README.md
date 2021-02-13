@@ -1,7 +1,7 @@
 # globish
  
 ## how to use
-'''
+```
 <script type="module">
 import { CSV } from "https://code4sabae.github.io/js/CSV.js";
  
@@ -12,4 +12,4 @@ window.onload = async () => {
   console.log(words);
 };
 </script>
-'''
+```
